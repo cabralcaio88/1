@@ -12,6 +12,8 @@
 
 /* Select Duck with the highest level of specificity */
 
-
+h2.likesquack.fightduck {
+    color: gray;
+}
 
 /* Select Rhino with the highest level of specificity */
