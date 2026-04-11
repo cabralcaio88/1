@@ -1,0 +1,32 @@
+/* Noclasses or ids */
+
+/* Make only "Just Kidding" yellow */
+section h2{
+    color: yellow;
+}
+
+/* Make only twitter red and 20px */
+aside a{
+    font-size: 20px;
+    color: red;
+}
+
+/* make really hot purple and like wild hot larger and blue */
+article h2{
+    color: purple;
+    font-size: smaller;
+}
+
+article h2+h2{
+    font-size: larger;
+    color: blue;
+}
+
+/* Make only bob and pizza green */
+nav  ul {
+    color: black;
+}
+
+nav ul+ul a {
+    color: green;
+}

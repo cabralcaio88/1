@@ -1,0 +1,14 @@
+/* make this is an ad... blue, but make shure it is specific enough that you could add other h3's somewhere elses in the document */
+section#rugratsWildMuitoGrande .extraExtraReadAllAboutIt h3 {
+    color: blue;
+}
+/* please make i like turtles red */
+#chunkyMilk h2{
+    color: red;
+}
+
+/* please select hello world with the highest level of specificity possible */
+html body section#rugratsWildMuitoGrande h2{
+    color: gold;
+}
+/* select lets get down to the business with the highest level of specificity possible */
