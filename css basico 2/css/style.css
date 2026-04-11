@@ -1,0 +1,26 @@
+    /* Make this li's blue, underlined, 15px, and have a gray background */
+li {
+    color: blue;
+    text-decoration: underline;;
+    font-size: 15px;
+    background-color: gray;
+}
+
+section {
+    height: 300px;
+    background-color: lightblue;
+    border: 5px solid gold;
+}
+
+section > h1 {
+    color: rgb(92, 79, 9);
+    text-align: center;
+    font-family: "Source Sans 3", sans-serif;
+    font-size: 30px;
+}
+
+footer {
+    background-color: brown;
+    height: 300px;
+    width: 70%;
+}
