@@ -1,0 +1,30 @@
+/* Make the h1 30px, with a little padding on the left and a thin red border */
+h1{
+    font-size: 30px;
+    padding: 0 0 0 30px;
+    border: 5px solid red;
+}
+
+/* make the h2 25px, padding on top/botton, a thick golden border and margin on the top/bottom */
+body > h2{
+    font-size: 25px;
+    padding: 30px 0;
+    border: 20px solid gold;
+    margin: 10px 0;
+}
+
+/* make the spans have a tick black border, a little padding and blue */
+p span {
+    color: blue;
+    border: 5px solid black;
+    padding: 5px;
+
+}
+
+/* make the section 25% width, 200px tall, centered and with a thin purple border */
+section{
+    width: 25%;
+    height: 200px;
+    margin: 0 auto;
+    border: 5px solid purple;
+}
